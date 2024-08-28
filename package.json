@@ -1,0 +1,21 @@
+{
+  "name": "ostad_mern-6_assignment-3",
+  "version": "1.0.0",
+  "description": "This assignment is on node.js and Express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clever2817/Ostad_MERN-6_Assignment-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clever2817/Ostad_MERN-6_Assignment-3/issues"
+  },
+  "homepage": "https://github.com/clever2817/Ostad_MERN-6_Assignment-3#readme"
+}
